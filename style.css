@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans:ital,wght@0,300;0,500;0,700;1,300;1,400;1,500;1,700&family=Sono&display=swap');
+
+body{
+  font-family:'Open Sans', sans-serif;
+  margin: 0;
+  background-color: rgb(230, 169, 230);
+}
+
+h1{
+  font-weight: 900;
+  text-transform: uppercase;
+  font-size: 25px;
+  background-color: rgb(184, 44, 184);
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 17px;
+}
+
+.photo{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.inst{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.telefon{
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  margin-top: 80px;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 25px;
+  background-color: rgb(184, 44, 184);
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
